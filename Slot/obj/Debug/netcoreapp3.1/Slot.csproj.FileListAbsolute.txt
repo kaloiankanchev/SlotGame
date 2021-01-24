@@ -1,0 +1,26 @@
+D:\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.exe
+D:\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.dll
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.AssemblyInfoInputs.cache
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.AssemblyInfo.cs
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.csproj.CoreCompileInputs.cache
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.dll
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.pdb
+D:\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.deps.json
+D:\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.runtimeconfig.json
+D:\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.runtimeconfig.dev.json
+D:\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.pdb
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.genruntimeconfig.cache
+D:\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.csprojAssemblyReference.cache
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.exe
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.dll
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.csprojAssemblyReference.cache
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.AssemblyInfoInputs.cache
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.AssemblyInfo.cs
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.csproj.CoreCompileInputs.cache
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.dll
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.pdb
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.deps.json
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.runtimeconfig.json
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.runtimeconfig.dev.json
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\bin\Debug\netcoreapp3.1\Slot.pdb
+C:\Users\elite\Desktop\IT Companies Applications\BEDE GAMING\Slot\Slot\obj\Debug\netcoreapp3.1\Slot.genruntimeconfig.cache
